@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[JAIL] Prison Walls and Beds (Continued)</name>
+  <author>Derek Bickley</author>
+  <supportedVersions>
+  <li>1.2</li>
+	<li>1.3</li>
+	<li>1.4</li>
+  <li>1.5</li>
+  <li>1.6</li>
+  </supportedVersions>
+  <packageId>DerekBickley.PrisonWalls</packageId>
+  <url>Link</url>
+  <description>
+	Continuation of https://steamcommunity.com/sharedfiles/filedetails/?id=2566693272 and https://steamcommunity.com/sharedfiles/filedetails/?id=2589475462 Made by: BICKLEY.
+
+  Unsubscribe from old mods to avoid issues using this one.
+  
+  The Beds ucomfortable, ugly, terrifying, and tough
+  - helps with converting ideologies
+
+  Prison Walls, Doors and Beds to complete your Prison Industrial Complex. Walls create their own room while allowing temperature to flow through. Pawns can also shoot through prison walls.
+	</description>
+	
+	<modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</steamWorkshopUrl>
+    </li>
+</modDependencies>
+	
+</ModMetaData>
